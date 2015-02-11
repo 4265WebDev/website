@@ -1,0 +1,10 @@
+CACHE MANIFEST
+/style.css
+/logo.gif
+/main.js
+
+NETWORK:
+*
+
+FALLBACK:
+/html/ /home.html

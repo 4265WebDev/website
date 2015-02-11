@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-US" data-geo-code="ALL">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+<meta charset="UTF-8">
+<meta name="keywords" content="4265, frc, team, wildbots, secret, city, robot, awesome">
+<meta name="description" content="The Oak Ridge Secret City Wildbots FRC Team 4265 Website">
+<meta name="author" content="Jacob LaRose">
+<meta http-equiv="refresh" content="120">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1.0" name="viewport">
+<meta id="testViewport" name="viewport" content="width = 380">
+<script>
+window.onload = function () {
+	if (screen.width > 740) {
+		var mvp = document.getElementById('testViewport');
+		mvp.setAttribute('content','width=740');
+	}
+}
+</script>
+<title>Team 4265 Web</title>
+<link rel="shortcut icon" href="H:/4265/data/favicon.ico" type="image/x-icon">
+<link rel="icon" href="H:/4265/data/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="H:/4265/style.css">
+<html manifest="wildbots.appcache">
+</head>
+<body>
+<div id="header">
+<h1>FRC Team 4265</h1>
+<div id="slogan">
+<h4>Pationately Pursuing Perfection.</h4>
+</div>
+</div>
+
+<div id="nav">
+<a href="C:/Users/Guest/Desktop/inteliphot/us.html">About Us</a><br>
+<a href="C:/Users/Guest/Desktop/inteliphot/projects/projects.html">Projects</a><br>
+<a href="C:/Users/Guest/Desktop/inteliphot/products/products.html">Products</a><br>
+</div>
+
+<div id="section">
+<div id="title">
+<h1 style="color: navy;">""</h1>
+</div>
+<hr />
+</div>
+
+<div id="footer">
+Property of the 4265 wildbots.
+</div>
+</body>
+</html>
